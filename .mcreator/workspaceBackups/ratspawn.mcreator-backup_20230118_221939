@@ -1,0 +1,29 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ratspawn",
+    "modName": "RatSpawn",
+    "version": "0.0.1",
+    "author": "Consumedgrub2,, Competemeh",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mbp.ratspawn",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
