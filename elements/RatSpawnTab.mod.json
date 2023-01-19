@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "Rat Spawn",
+    "icon": {
+      "value": "Blocks.GRASS"
+    },
+    "showSearch": false
+  }
+}

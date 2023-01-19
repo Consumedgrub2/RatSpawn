@@ -1,19 +1,64 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "RatSpawnTab",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rat_spawn_tab"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "itemGroup.tabrat_spawn_tab": "Rat Spawn"
+    }
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "GUI",
+        "children": []
+      },
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Armor",
+        "children": []
+      },
+      {
+        "name": "Tool",
+        "children": []
+      },
+      {
+        "name": "Item",
+        "children": []
+      },
+      {
+        "name": "Recipe",
+        "children": []
+      },
+      {
+        "name": "Fluid",
+        "children": []
+      },
+      {
+        "name": "LootTable",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "ratspawn",
     "modName": "RatSpawn",
     "version": "0.0.1",
-    "author": "Consumedgrub2,, Competemeh",
+    "author": "Consumedgrub2, Competemeh",
+    "websiteURL": "https://mcreator.net",
     "license": "All Rights Reserved",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
@@ -22,6 +67,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mbp.ratspawn",
     "lockBaseModFiles": false
   },
